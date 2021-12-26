@@ -1,4 +1,4 @@
-# fun_with_ar
+# fun_with_tensorflow lite
 
 A new Flutter project.
 
